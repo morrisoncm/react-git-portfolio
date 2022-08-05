@@ -1,29 +1,20 @@
-# template-springboot
-Sample Gradle Spring Boot Rest API with Junit 5. 
+### react-git-portfolio
+Inside that directory, you can run several commands:
 
-### Spring Reference
-- [Spring Getting Started Guides](https://spring.io/guides#getting-started-guides)
-- [Spring Topical Guides](https://spring.io/guides#topical-guides)
-- [Spring Tutorials](https://spring.io/guides#tutorials)
-- [Gradle Guildes](https://gradle.org/guides/)
+  npm start
+    Starts the development server.
 
-### Workspace setup
-- [Download java](https://jdk.java.net/archive/)
-- [Configuring Java](https://docs.oracle.com/cd/E19182-01/821-0917/inst_jdk_javahome_t/index.html)  
-- [Download Eclipse](https://www.eclipse.org/downloads/packages/)  
-- [Download and Install Gradle](https://docs.gradle.org/current/userguide/installation.html)  
-- [Download and install Postman](https://www.getpostman.com/downloads/)
+  npm run build
+    Bundles the app into static files for production.
 
-### Building the application
-- Clone or download the project  
-- To run the application from Terminal / Command Prompt   
-- Change directory to the project root directory and type **gradle build**  
-- The jar is located in build/libs/ under the root directory
+  npm test
+    Starts the test runner.
 
-### Running the application
-- Clone or download the project  
-- To run the application from Terminal / Command Prompt   
-- Change directory to the project root directory and type **gradle bootRun**  
-- To run the application inside Eclipse  
-- The starting point is Application.java  
-- Right click the Application.java  and select Run As ->Java Application  
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+cd /Users/cmorrison/git-tech/react-git-portfolio
+   npm start
