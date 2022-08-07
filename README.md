@@ -1,6 +1,6 @@
 ### react-git-portfolio
 Creating a PWA reactapp
-* In Terminal type **npx create-react-app my-app --template cra-template-pwa-typescript**
+* In Terminal type **npx create-react-app my-app --template cra-template-pwa**
 
 ### Serving the PWA
 The PWA will only be visible  when the build version of our application is available. Offline-first Progressive Web Apps are faster and more reliable than traditional web pages, and provide an engaging mobile experience:
