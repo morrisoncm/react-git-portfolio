@@ -1,6 +1,6 @@
 ### react-git-portfolio
 Creating a PWA reactapp
-* In Terminal type **npx create-react-app my-app --template cra-template-pwa**
+* In Terminal type **npx create-react-app react-git-portfolio --template cra-template-pwa**
 
 ##### Inside application directory, you can run several commands
 
