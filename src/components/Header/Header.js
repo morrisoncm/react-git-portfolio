@@ -1,6 +1,6 @@
 import React from 'react';
-import styled from 'styled-components';
 import logo from '../../GitHub-Mark-Light-64px.png';
+import styled from 'styled-components';
 
 const HeaderWrapper = styled.div`
   background-color: #282c34;
